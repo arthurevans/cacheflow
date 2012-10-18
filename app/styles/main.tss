@@ -1,0 +1,12 @@
+"#tabgroup": {
+	backgroundColor: "red",
+},
+"#win": {
+	backgroundColor: "#fff",
+	title: 'cacheflow',
+	tabBarHidden: true
+},
+"#map": {
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL
+}

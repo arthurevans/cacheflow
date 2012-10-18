@@ -1,0 +1,7 @@
+<Alloy>
+	<View id='menu'>
+        <Button id='main_menu_button' class='menu_button' zIndex='10' onClick="openMenu">Menu</Button>
+        <Button id='login_menu_button' class='menu_button' zIndex='3' onClick="showList">List</Button>
+        <Button id='caches_menu_button' class='menu_button' zIndex='2' onClick="findCache">Show</Button>
+	</View>
+</Alloy>

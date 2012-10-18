@@ -1,0 +1,9 @@
+<Alloy>
+	<TabGroup id="tabgroup">
+		<Tab title="Map">
+			<Window id="win">
+				<View ns="Ti.Map" id="map" userLocation="true"/>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>

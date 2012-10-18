@@ -1,0 +1,21 @@
+".container": {
+	backgroundColor: "white",
+	width: "100dp",
+	height: "90dp"
+},
+".item": {
+	width: '100dp',
+	height: '30dp'
+},
+"#i1": {
+	top: 0,
+	left: 0
+},
+"#i2": {
+	top: '30dp',
+	left: 0
+},
+"#i3": {
+	top: '60dp',
+	left: 0
+}

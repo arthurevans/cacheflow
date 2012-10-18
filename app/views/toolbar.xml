@@ -1,0 +1,12 @@
+<Alloy>
+		<Toolbar platforms="ios" bottom="0">
+			<Items>
+				<Button id="add_to_list" onClick="addToList"/>
+				<FlexSpace />
+				<Button id="seek" onClick="seekCache" />
+				<FlexSpace />
+				<Button id="drive" image="icon_car.png" onClick="driveToCache" />
+			</Items>
+		</Toolbar>
+
+</Alloy>

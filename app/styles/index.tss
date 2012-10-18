@@ -1,0 +1,20 @@
+"#win": {
+	backgroundColor: "#fff",
+	exitOnClose: "true",
+	navBarHidden: "true"
+},
+"#splashwin": {
+	backgroundColor: "#fff",
+	navBarHidden: "true"
+},
+"#splash": {
+    width: "100%",
+    height: "100%",
+    backgroundImage: "bg.png",
+    text: "CacheFlow",
+    color: '#fff',
+    textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+    font: {
+    	fontSize: '24dp'
+    	}
+}

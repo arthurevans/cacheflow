@@ -1,0 +1,14 @@
+<Alloy>
+	<TableViewRow id="row">
+		<View class="vgroup">
+			<View class="titleline">
+				<Label id="title" ellipsize="true"/>
+				<Label id="owner" />
+			</View>
+			<View class="hgroup">
+				<Label id="position"/>
+				<Label id="type"/>
+			</View>
+		</View>
+	</TableViewRow>
+</Alloy>

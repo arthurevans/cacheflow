@@ -1,0 +1,27 @@
+"#detail_win": {
+	backgroundColor: '#fff',
+	modal: true,
+	navBarHidden: false,
+	tabBarHidden: true,
+	title: "Details"
+},
+"#title": {
+	top: "0dp",
+	height: Ti.UI.SIZE,
+	font: {
+		fontSize: "14dp"
+	},
+	width: Ti.UI.FILL,
+	textAlign: Ti.UI.TEXT_ALIGN_CENTER
+},
+"#details": {
+	top: "20dp",
+	bottom: "30dp",
+	width: Ti.UI.FILL,
+},
+"#seek": {
+	systemButton: Ti.UI.iPhone.SystemButton.ACTION
+},
+"#add_to_list": {
+	systemButton: Ti.UI.iPhone.SystemButton.ORGANIZE
+}

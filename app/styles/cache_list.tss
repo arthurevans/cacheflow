@@ -1,0 +1,9 @@
+".container": {
+	backgroundColor: "white"
+},
+"#win": {
+	modal: true,
+	title: "Caches",
+	navBarHidden: false,
+	tabBarHidden: true
+}

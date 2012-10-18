@@ -1,0 +1,64 @@
+"Label": {
+	color: "#000",
+	font: {
+		fontSize: "12dp"
+	}
+},
+".vgroup": {
+	layout: "vertical",
+	height: Ti.UI.SIZE
+},
+".titleline": {
+	height: Ti.UI.SIZE,
+},
+".hgroup": {
+	layout: 'horizontal',
+	height: Ti.UI.SIZE,
+},
+"#row": {
+	className: "cache_row",
+	height: Ti.UI.SIZE
+},
+"#title": {
+	top: "2dp",
+	height: Ti.UI.SIZE,
+	font: {
+		fontSize: "14dp"
+	},
+	width: "70%",
+	left: "5dp"
+},
+"#owner": {
+	top: "2dp",
+	bottom: "2dp",
+	height: Ti.UI.SIZE,
+	width: "25%",
+	right: "5dp",
+	color: "#333",
+	font: {
+		fontSize: "12dp"
+	},
+	textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT
+},
+"#position": {
+	top: "2dp",
+	bottom: "2dp",
+	height: Ti.UI.SIZE,
+	left: "5dp",
+	width: "45%",
+	color: "#333",
+	font: {
+		fontSize: "12dp"
+	}
+},
+"#type": {
+	top: "2dp",
+	bottom: "2dp",
+	height: Ti.UI.SIZE,
+	width: "45%",
+	left: "5dp",
+	color: "#333",
+	font: {
+		fontSize: "12dp"
+	}
+}
